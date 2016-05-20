@@ -19,6 +19,7 @@ public:
 
 private slots:
     void showAddrWeb();
+    void showBaiduMap();
 
 private:
     Ui::MainWindow *ui;

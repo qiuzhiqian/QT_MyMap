@@ -20,3 +20,8 @@ HEADERS  += mainwindow.h \
     webaxwidget.h
 
 FORMS    += mainwindow.ui
+
+DISTFILES +=
+
+RESOURCES += \
+    mymap.qrc
